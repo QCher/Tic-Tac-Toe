@@ -1,0 +1,53 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Mobility Radeon HD 5730 (ID=0x68c0)
+    Vendor:   ATI
+    VRAM:     1014 MB
+    Driver:   8.840.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.221 seconds
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gorbat\Desktop\TicTacToe\Builds\Windows\TicTacToe_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.619533 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.009388 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.608688 ms (FindLiveObjects: 0.048459 ms CreateObjectMapping: 0.028532 ms MarkObjects: 0.512221 ms  DeleteObjects: 0.017662 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.725987 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 445.
+Total: 0.726440 ms (FindLiveObjects: 0.074727 ms CreateObjectMapping: 0.058876 ms MarkObjects: 0.577891 ms  DeleteObjects: 0.013586 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.927524 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.629521 ms (FindLiveObjects: 0.056611 ms CreateObjectMapping: 0.032155 ms MarkObjects: 0.521279 ms  DeleteObjects: 0.018115 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.831952 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 1.051164 ms (FindLiveObjects: 0.072009 ms CreateObjectMapping: 0.045289 ms MarkObjects: 0.913938 ms  DeleteObjects: 0.019021 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 15cc -> priority: 1 
